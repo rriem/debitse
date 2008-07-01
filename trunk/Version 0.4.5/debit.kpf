@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project kpf_version="3" id="4400d3db-1dbd-4f40-a2be-d56328806a68" name="debit.kpf">
+<preference-set idref="4400d3db-1dbd-4f40-a2be-d56328806a68">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
