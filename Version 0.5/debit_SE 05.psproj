@@ -1,0 +1,170 @@
+[PyScripter]
+Version=1.9.9.2
+
+[Project]
+ClassName=TProjectRootNode
+StoreRelativePaths=FALSE
+
+[Project\ChildNodes]
+Count=2
+
+[Project\ChildNodes\Node0]
+ClassName=TProjectFilesNode
+
+[Project\ChildNodes\Node0\ChildNodes]
+Count=17
+
+[Project\ChildNodes\Node0\ChildNodes\Node0]
+ClassName=TProjectFolderNode
+Name=icons
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes]
+Count=20
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node0]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\calculator.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node1]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\calculator2.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node2]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\copy.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node3]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\cut.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node4]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\debit.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node5]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\debit.icns
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node6]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\drug.PNG
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node7]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\new.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node8]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\paste.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node9]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\patient.PNG
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node10]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\print.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node11]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\pyuic4.bat
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node12]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\quit.PNG
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node13]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\save.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node14]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\splashscreen.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node15]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\splashscreen.jpg
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node16]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\table.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node17]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\undo.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node18]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\view_fit_window.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node19]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\icons\wizard.png
+
+[Project\ChildNodes\Node0\ChildNodes\Node1]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\.DS_Store
+
+[Project\ChildNodes\Node0\ChildNodes\Node2]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\calcExpress.pyc
+
+[Project\ChildNodes\Node0\ChildNodes\Node3]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\calcExpress.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node4]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\calcExpress.ui
+
+[Project\ChildNodes\Node0\ChildNodes\Node5]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\debit_SE 05.psproj
+
+[Project\ChildNodes\Node0\ChildNodes\Node6]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\debitSE-test.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node7]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\mainWindow.pyc
+
+[Project\ChildNodes\Node0\ChildNodes\Node8]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\mainWindow.zip
+
+[Project\ChildNodes\Node0\ChildNodes\Node9]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\mainWindow.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node10]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\mainWindow.ui
+
+[Project\ChildNodes\Node0\ChildNodes\Node11]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\PatientDataDialog.ui
+
+[Project\ChildNodes\Node0\ChildNodes\Node12]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\principal-test.zip
+
+[Project\ChildNodes\Node0\ChildNodes\Node13]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\pyuic4.bat
+
+[Project\ChildNodes\Node0\ChildNodes\Node14]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\ressources.qrc
+
+[Project\ChildNodes\Node0\ChildNodes\Node15]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\setup.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node16]
+ClassName=TProjectFileNode
+FileName=D:\debit SE 0.5\Version 0.5.pro
+
+[Project\ChildNodes\Node1]
+ClassName=TProjectRunConfiguationsNode
+
